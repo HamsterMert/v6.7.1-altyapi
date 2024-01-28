@@ -1,0 +1,16 @@
+{
+    "dependencies": {
+      "aoi.js": "^6.7.1"
+    },
+    "name": "bos-altyapi",
+    "version": "1.0.0",
+    "description": "AOI.JS TR",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+      "start": "node ."
+    },
+    "author": "HamsterMert",
+    "license": "MIT"
+  }
+  
